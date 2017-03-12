@@ -1,0 +1,20 @@
+# Regions within the venue are allocated shepherds who operate only
+# within that region. Each region is assigned a colour for easy
+# identification by the shepherds on their various screens and print-outs.
+
+shepherds:
+  - name: 'Yellow'
+    colour: '#F2F5A9'
+    teams: []
+
+  - name: 'Green'
+    colour: '#A9F5A9'
+    teams: []
+
+  - name: Red
+    colour: '#F5A9A9'
+    teams: []
+
+  - name: Blue
+    colour: '#A9A9F5'
+    teams: []

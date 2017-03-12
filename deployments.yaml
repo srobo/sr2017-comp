@@ -1,0 +1,5 @@
+# fully qualified names of machines which have deployments which
+# support triggered updates
+deployments:
+  - saffron.studentrobotics.org
+  - compbox-2016.sr

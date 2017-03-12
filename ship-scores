@@ -1,0 +1,6 @@
+#!/bin/sh
+git fetch --all
+git merge scorer/master \
+	&& srcomp validate . \
+	&& srcomp deploy . \
+	&& git push origin master
