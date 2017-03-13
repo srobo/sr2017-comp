@@ -5,7 +5,11 @@ class InvalidScoresheetException(Exception):
     pass
 
 class Scorer:
-    VALID_TOKENS = 'ABC'
+    EXPECTED_TOKEN_COUNTS = {
+        'A': 4,
+        'B': 4,
+        'C': 1,
+    }
 
     def __init__(self, teams_data, arena_data):
         self._teams_data = teams_data
@@ -39,18 +43,13 @@ class Scorer:
             for d in self._arena_data.values()
         ).replace(' ', '')
 
-        num_tokens = len(all_tokens)
-        if not num_tokens == 9:
-            msg = "Should have exactly 9 tokens (got {0})".format(num_tokens)
-            raise InvalidScoresheetException(msg)
+        counts = Counter(all_tokens)
 
-        valid_tokens = set(self.VALID_TOKENS)
-        actual_tokens = set(all_tokens)
-        extras = actual_tokens - valid_tokens
-        if extras:
-            extras_str = ', '.join(extras)
-            valid_str =  ', '.join(valid_tokens)
-            msg = "Found invalid tokens {0} (valid: {1})".format(extras_str, valid_str)
+        if counts != self.EXPECTED_TOKEN_COUNTS:
+            msg = "Found invalid token counts {0!r} (expecting: {1!r})".format(
+                dict(counts),
+                self.EXPECTED_TOKEN_COUNTS,
+            )
             raise InvalidScoresheetException(msg)
 
 

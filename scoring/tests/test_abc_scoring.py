@@ -175,6 +175,50 @@ def test_validate_error_invalid_notation():
     else:
         assert False, "Should error when there are invalid tokens"
 
+def test_validate_error_B_token_transposed_A():
+    teams_data = {
+        'ABC': {'zone': 0},
+        'DEF': {'zone': 1},
+        'GHI': {'zone': 2},
+    }
+    arena_data = {
+        0: { 'tokens': '' },
+        1: { 'tokens': 'AA BB C' },
+        2: { 'tokens': '' },
+        3: { 'tokens': '' },
+        'other': { 'tokens': 'AAA B' },
+    }
+
+    try:
+        scorer = Scorer(teams_data, arena_data)
+        scores = scorer.validate(None)
+    except InvalidScoresheetException:
+        pass
+    else:
+        assert False, "Should error when there are too many A tokens"
+
+def test_validate_error_C_token_transposed_A():
+    teams_data = {
+        'ABC': {'zone': 0},
+        'DEF': {'zone': 1},
+        'GHI': {'zone': 2},
+    }
+    arena_data = {
+        0: { 'tokens': '' },
+        1: { 'tokens': 'AA BB' },
+        2: { 'tokens': '' },
+        3: { 'tokens': '' },
+        'other': { 'tokens': 'AAA BB' },
+    }
+
+    try:
+        scorer = Scorer(teams_data, arena_data)
+        scores = scorer.validate(None)
+    except InvalidScoresheetException:
+        pass
+    else:
+        assert False, "Should error when there are too many A tokens"
+
 def test_validate_error_too_many_A_tokens():
     teams_data = {
         'ABC': {'zone': 0},
