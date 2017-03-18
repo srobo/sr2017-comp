@@ -6,62 +6,62 @@
 # short path for someone needing to visit all teams.
 #
 # Location names aren't used, but make this file easier to update.
-
+#
 teams:
 # Floor 0 starts here
-  - name: floor-0-group-0
-    display_name: Group 0, Ground Floor
-    teams: []
-
-  - name: floor-0-group-1
-    display_name: Group 1, Ground Floor
-    teams: []
-
-  - name: floor-0-group-2
-    display_name: Group 2, Ground Floor
-    teams: []
-
-  - name: floor-0-group-3
-    display_name: Group 3, Ground Floor
-    teams: []
-
-  - name: floor-0-group-4
-    display_name: Group 4, Ground Floor
-    teams: []
-
-  - name: floor-0-group-5
-    display_name: Group 5, Ground Floor
-    teams: []
-
+- name: floor-0-group-0
+  display_name: Group 0, Ground Floor
+  teams: []
+#
+- name: floor-0-group-1
+  display_name: Group 1, Ground Floor
+  teams: []
+#
+- name: floor-0-group-2
+  display_name: Group 2, Ground Floor
+  teams: []
+#
+- name: floor-0-group-3
+  display_name: Group 3, Ground Floor
+  teams: []
+#
+- name: floor-0-group-4
+  display_name: Group 4, Ground Floor
+  teams: []
+#
+- name: floor-0-group-5
+  display_name: Group 5, Ground Floor
+  teams: []
+#
 # Floor 2 starts here
-  - name: floor-2-group-0
-    display_name: Group 0, Second Floor
-    teams: []
-
-  - name: floor-2-group-1
-    display_name: Group 1, Second Floor
-    teams: []
-
-  - name: floor-2-group-2
-    display_name: Group 2, Second Floor
-    teams: []
-
-  - name: floor-2-group-3
-    display_name: Group 3, Second Floor
-    teams: []
-
-  - name: floor-2-group-4
-    display_name: Group 4, Second Floor
-    teams: []
-
-  - name: floor-2-group-5
-    display_name: Group 5, Second Floor
-    teams: []
-
-  - name: floor-2-group-6
-    display_name: Group 6, Second Floor
-    teams: []
-
-  - name: floor-2-group-7
-    display_name: Group 7, Second Floor
-    teams: []
+- name: floor-2-group-0
+  display_name: Group 0, Second Floor
+  teams: []
+#
+- name: floor-2-group-1
+  display_name: Group 1, Second Floor
+  teams: []
+#
+- name: floor-2-group-2
+  display_name: Group 2, Second Floor
+  teams: []
+#
+- name: floor-2-group-3
+  display_name: Group 3, Second Floor
+  teams: []
+#
+- name: floor-2-group-4
+  display_name: Group 4, Second Floor
+  teams: []
+#
+- name: floor-2-group-5
+  display_name: Group 5, Second Floor
+  teams: []
+#
+- name: floor-2-group-6
+  display_name: Group 6, Second Floor
+  teams: []
+#
+- name: floor-2-group-7
+  display_name: Group 7, Second Floor
+  teams: []
