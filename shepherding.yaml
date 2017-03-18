@@ -1,20 +1,36 @@
-# Regions within the venue are allocated shepherds who operate only
-# within that region. Each region is assigned a colour for easy
+# Areas within the venue are allocated shepherds who operate only
+# within that area. Each area is assigned a colour for easy
 # identification by the shepherds on their various screens and print-outs.
+
+# Note that these areas are also rendered on the shepherding layout
+# printouts via an additional layer in the SVG. If either is updated,
+# the other need to be kept in sync manually.
 
 shepherds:
   - name: 'Yellow'
     colour: '#F2F5A9'
-    teams: []
+    regions:
+      - floor-0-group-0
+      - floor-0-group-1
+      - floor-0-group-2
 
   - name: 'Green'
     colour: '#A9F5A9'
-    teams: []
+    regions:
+      - floor-0-group-3
+      - floor-0-group-4
+      - floor-0-group-5
 
   - name: Red
     colour: '#F5A9A9'
-    teams: []
+    regions:
+      - floor-2-group-0
+      - floor-2-group-1
+      - floor-2-group-2
 
   - name: Blue
     colour: '#A9A9F5'
-    teams: []
+    regions:
+      - floor-2-group-3
+      - floor-2-group-4
+      - floor-2-group-5
