@@ -33,6 +33,15 @@ delays:
   time: 2017-04-01 15:00:00+01:00
 - delay: 600
   time: 2017-04-02 11:00:00+01:00
+# Add a strategic delay at the point where we switch to a single arena (i.e:
+# just before the quarter finals). Note that this will need manually updating
+# if there are any delays in the early stages of the knockouts or the timings
+# change.
+# There's already a 5 minute gap between each of the knockout rounds
+# (see 'knockout.round_spacing' below), so we only need to add 5 minutes to
+# bump this to the 10 minutes we want.
+- delay: 300
+  time: 2017-04-02 15:50:00+01:00
 
 match_periods:
   league:
@@ -55,11 +64,13 @@ match_periods:
 
 #
   - start_time: 2017-04-02 13:15:00+01:00
-    end_time: 2017-04-02 14:50:00+01:00
+    end_time: 2017-04-02 14:20:00+01:00
     description: Sunday league, afternoon
 #
+# There is a group photograph scheduled for 14:30
+#
   knockout:
-  - start_time: 2017-04-02 15:00:00+01:00
+  - start_time: 2017-04-02 14:45:00+01:00
     end_time: 2017-04-02 17:00:00+01:00
     description: Knockouts
 #
