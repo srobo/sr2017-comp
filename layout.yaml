@@ -1,5 +1,5 @@
 # Starting top left in the layout diagram, work anti-clockwise within
-# each bunch teams (they're in groups of 4 tables together),
+# each bunch of teams (they're in groups of 4 tables together),
 # and either anti-clockwise around bunches of teams or left-to-right
 # if they're in a line.
 # While probably not entirely optimal, this should result in a fairly
