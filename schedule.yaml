@@ -14,7 +14,11 @@ staging:
   duration: 180
   # How long before the start of the match to signal to shepherds they
   # should start looking for teams
-  signal_shepherds: 240
+  signal_shepherds:
+    Yellow: 420
+    Green: 420
+    Red: 600
+    Blue: 600
   # How long before the start of the match to signal to teams they should
   # go to staging
   signal_teams: 240
