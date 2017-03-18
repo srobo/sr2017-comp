@@ -1,1 +1,316 @@
-matches: {}
+matches:
+  0:
+    A: [null, SWI, CRS, YJB]
+    B: [TWG, SUF, CAR, CRB]
+  1:
+    A: [BPV, BAL, LFG, MFG]
+    B: [DCG, SPH, null, LSS]
+  2:
+    A: [FAL, WHS, CGS, FRC]
+    B: [HAM, GRD, CLY, BLE]
+  3:
+    A: [CCR, QMC, null, JLS]
+    B: [KEG, MCS, TCS, BRN]
+  4:
+    A: [GDC, BRK, KDE, MAI]
+    B: [KEV, PSC, KES, RGS]
+  5:
+    A: [CAT, DUL, HSO, SEN]
+    B: [SCS, TTN, CHB, BDF]
+  6:
+    A: [ABD, CLF, HRS, TLC]
+    B: [HAY, WGS, CHW, QEH]
+  7:
+    A: [BPV, SUF, CRS, SPH]
+    B: [null, SWI, CRB, MFG]
+  8:
+    A: [FAL, BAL, GRD, LSS]
+    B: [HAM, DCG, FRC, LFG]
+  9:
+    A: [TWG, QMC, TCS, null]
+    B: [CCR, BLE, YJB, JLS]
+  10:
+    A: [WHS, KEV, GDC, BRN]
+    B: [CGS, CAR, KEG, MAI]
+  11:
+    A: [TTN, SEN, BRK, CAT]
+    B: [PSC, CHB, DUL, RGS]
+  12:
+    A: [QEH, KES, CLF, HSO]
+    B: [HAY, SCS, ABD, BDF]
+  13:
+    A: [WGS, CLY, null, TLC]
+    B: [KDE, CHW, MCS, HRS]
+  14:
+    A: [null, BAL, MFG, LFG]
+    B: [FAL, DCG, CRS, LSS]
+  15:
+    A: [BPV, GRD, QMC, FRC]
+    B: [HAM, SWI, SPH, YJB]
+  16:
+    A: [TWG, WHS, CAR, GDC]
+    B: [KEV, CGS, KEG, CCR]
+  17:
+    A: [CAT, MAI, TCS, BLE]
+    B: [JLS, SEN, RGS, TTN]
+  18:
+    A: [DUL, BRK, KES, BRN]
+    B: [QEH, CHB, null, SUF]
+  19:
+    A: [WGS, PSC, ABD, MCS]
+    B: [CHW, CLF, null, BDF]
+  20:
+    A: [SCS, CLY, HRS, HSO]
+    B: [HAY, KDE, TLC, CRB]
+  21:
+    A: [BPV, GRD, CRS, LSS]
+    B: [FAL, HAM, SPH, MFG]
+  22:
+    A: [WHS, CCR, KEG, LFG]
+    B: [TWG, SWI, DCG, CGS]
+  23:
+    A: [JLS, GDC, TCS, SEN]
+    B: [KEV, CAR, CAT, TTN]
+  24:
+    A: [null, SUF, RGS, QMC]
+    B: [BAL, DUL, BLE, null]
+  25:
+    A: [WGS, CHB, KES, YJB]
+    B: [CHW, CLF, ABD, MAI]
+  26:
+    A: [KDE, HSO, null, TLC]
+    B: [SCS, QEH, PSC, BRK]
+  27:
+    A: [CRB, MCS, CLY, BDF]
+    B: [HAY, HRS, BRN, FRC]
+  28:
+    A: [BPV, SWI, DCG, KEG]
+    B: [TWG, LSS, CGS, LFG]
+  29:
+    A: [CAR, MFG, GRD, SEN]
+    B: [KEV, CAT, SPH, JLS]
+  30:
+    A: [null, GDC, DUL, BLE]
+    B: [FAL, SUF, TCS, TTN]
+  31:
+    A: [WHS, CHW, MAI, CHB]
+    B: [HAM, ABD, KES, QMC]
+  32:
+    A: [BAL, KDE, CLF, PSC]
+    B: [SCS, WGS, null, TLC]
+  33:
+    A: [QEH, CRS, MCS, HSO]
+    B: [HAY, BRK, HRS, YJB]
+  34:
+    A: [CCR, BRN, null, BDF]
+    B: [CRB, CLY, FRC, RGS]
+  35:
+    A: [SWI, CAR, LFG, KEV]
+    B: [JLS, DCG, KEG, MFG]
+  36:
+    A: [null, FAL, GRD, TCS]
+    B: [TWG, BPV, SPH, DUL]
+  37:
+    A: [SUF, GDC, ABD, CHW]
+    B: [LSS, CHB, QMC, CAT]
+  38:
+    A: [SCS, CLF, KES, SEN]
+    B: [WGS, KDE, CGS, BLE]
+  39:
+    A: [BAL, HSO, YJB, null]
+    B: [QEH, HRS, TLC, TTN]
+  40:
+    A: [WHS, HAY, PSC, BDF]
+    B: [CCR, MCS, MAI, CLY]
+  41:
+    A: [CRS, RGS, null, FRC]
+    B: [HAM, BRK, BRN, CRB]
+  42:
+    A: [BPV, CAR, DUL, TCS]
+    B: [TWG, null, KEG, SPH]
+  43:
+    A: [SUF, GRD, CHB, LFG]
+    B: [FAL, SWI, GDC, CHW]
+  44:
+    A: [WGS, KDE, QMC, MFG]
+    B: [SCS, JLS, CGS, LSS]
+  45:
+    A: [CLF, YJB, null, TTN]
+    B: [QEH, DCG, HRS, BAL]
+  46:
+    A: [WHS, ABD, HSO, BLE]
+    B: [HAY, KEV, MCS, SEN]
+  47:
+    A: [CCR, BRK, KES, FRC]
+    B: [CAT, RGS, TLC, BDF]
+  48:
+    A: [HAM, MAI, null, CRB]
+    B: [PSC, CRS, CLY, BRN]
+  49:
+    A: [FAL, GDC, CHB, SPH]
+    B: [BPV, null, CAR, CHW]
+  50:
+    A: [SUF, KDE, KEG, GRD]
+    B: [TWG, WGS, LFG, JLS]
+  51:
+    A: [TTN, MFG, CLF, LSS]
+    B: [SCS, DCG, DUL, YJB]
+  52:
+    A: [BAL, ABD, TCS, KEV]
+    B: [WHS, SWI, QMC, BLE]
+  53:
+    A: [CGS, KES, FRC, BDF]
+    B: [BRK, MCS, RGS, TLC]
+  54:
+    A: [null, MAI, BRN, SEN]
+    B: [PSC, CRB, HRS, HSO]
+  55:
+    A: [HAM, QEH, CLY, null]
+    B: [HAY, CCR, CRS, CAT]
+  56:
+    A: [BPV, FAL, null, TWG]
+    B: [JLS, GRD, CHB, SPH]
+  57:
+    A: [SUF, DCG, CLF, MFG]
+    B: [GDC, KEG, YJB, LSS]
+  58:
+    A: [WGS, CAR, BAL, TTN]
+    B: [WHS, KEV, DUL, QMC]
+  59:
+    A: [SWI, BRK, ABD, FRC]
+    B: [KES, MCS, BLE, TLC]
+  60:
+    A: [HRS, BDF, MAI, SEN]
+    B: [SCS, RGS, BRN, HSO]
+  61:
+    A: [CRS, CGS, null, CRB]
+    B: [HAM, HAY, PSC, CHW]
+  62:
+    A: [QEH, KDE, CAT, null]
+    B: [CCR, CLY, TCS, LFG]
+  63:
+    A: [CLF, GDC, SPH, LSS]
+    B: [TWG, SUF, YJB, MFG]
+  64:
+    A: [null, BAL, DUL, TTN]
+    B: [FAL, WGS, DCG, QMC]
+  65:
+    A: [SWI, CAR, CHB, TLC]
+    B: [WHS, JLS, MCS, BPV]
+  66:
+    A: [KEG, BLE, FRC, SEN]
+    B: [GRD, BRK, HSO, BDF]
+  67:
+    A: [HAY, RGS, null, MAI]
+    B: [HAM, KEV, CRS, HRS]
+  68:
+    A: [SCS, PSC, null, TCS]
+    B: [CCR, KDE, ABD, CRB]
+  69:
+    A: [QEH, CGS, BRN, LFG]
+    B: [CHW, KES, CLY, CAT]
+  70:
+    A: [GDC, TTN, DCG, QMC]
+    B: [WGS, SPH, SUF, BAL]
+  71:
+    A: [SWI, MFG, DUL, JLS]
+    B: [null, MCS, CHB, CLF]
+  72:
+    A: [FAL, BRK, KEG, HSO]
+    B: [CAR, YJB, FRC, BDF]
+  73:
+    A: [BPV, BLE, HRS, RGS]
+    B: [TWG, KEV, GRD, MAI]
+  74:
+    A: [SCS, CCR, CRS, TCS]
+    B: [HAM, WHS, KDE, LSS]
+  75:
+    A: [PSC, CGS, CLY, SEN]
+    B: [CHW, TLC, BRN, null]
+  76:
+    A: [CAT, ABD, null, LFG]
+    B: [HAY, QEH, KES, CRB]
+  77:
+    A: [null, GDC, CHB, DCG]
+    B: [SUF, CLF, QMC, DUL]
+  78:
+    A: [FAL, JLS, CAR, BDF]
+    B: [SPH, KEG, MCS, TTN]
+  79:
+    A: [TWG, BAL, BRK, BLE]
+    B: [KEV, MAI, FRC, WGS]
+  80:
+    A: [BPV, HAM, HSO, CCR]
+    B: [KDE, RGS, TCS, LSS]
+  81:
+    A: [SWI, HRS, null, SEN]
+    B: [GRD, CHW, CGS, YJB]
+  82:
+    A: [SCS, CAT, BRN, CRB]
+    B: [QEH, PSC, TLC, LFG]
+  83:
+    A: [WHS, CRS, KES, null]
+    B: [HAY, ABD, CLY, MFG]
+  84:
+    A: [MCS, CAR, SPH, DCG]
+    B: [KEG, TTN, DUL, BDF]
+  85:
+    A: [SUF, MAI, JLS, BAL]
+    B: [FAL, KEV, CLF, BLE]
+  86:
+    A: [null, WGS, FRC, LSS]
+    B: [HAM, CHB, HSO, TCS]
+  87:
+    A: [CGS, HRS, QMC, RGS]
+    B: [TWG, CCR, CHW, SEN]
+  88:
+    A: [SWI, GRD, QEH, CRB]
+    B: [SCS, KDE, null, LFG]
+  89:
+    A: [GDC, CRS, PSC, TLC]
+    B: [HAY, BRK, CLY, null]
+  90:
+    A: [BPV, ABD, BRN, YJB]
+    B: [WHS, CAT, KES, MFG]
+  91:
+    A: [KEV, DCG, BLE, BDF]
+    B: [FAL, MCS, DUL, SUF]
+  92:
+    A: [JLS, CLF, TCS, FRC]
+    B: [null, WGS, MAI, HSO]
+  93:
+    A: [HAM, BAL, RGS, TWG]
+    B: [CCR, CAR, HRS, LSS]
+  94:
+    A: [SCS, SWI, GRD, CHW]
+    B: [CRB, SEN, SPH, LFG]
+  95:
+    A: [HAY, CRS, KEG, QMC]
+    B: [BRK, CGS, null, CHB]
+  96:
+    A: [QEH, GDC, BRN, MFG]
+    B: [BPV, KDE, CAT, PSC]
+  97:
+    A: [ABD, KES, null, TTN]
+    B: [WHS, CLY, YJB, TLC]
+  98:
+    A: [SUF, HSO, FRC, JLS]
+    B: [null, KEV, DCG, TCS]
+  99:
+    A: [TWG, BDF, MCS, LSS]
+    B: [HAM, CAR, CLF, BLE]
+  100:
+    A: [WGS, CCR, RGS, SWI]
+    B: [GRD, DUL, HRS, CRB]
+  101:
+    A: [FAL, CRS, MAI, LFG]
+    B: [SCS, BRK, SPH, QMC]
+  102:
+    A: [HAY, BPV, CHB, CGS]
+    B: [PSC, CHW, null, MFG]
+  103:
+    A: [KDE, BRN, YJB, TTN]
+    B: [GDC, CAT, CLY, null]
+  104:
+    A: [WHS, QEH, ABD, SEN]
+    B: [BAL, KES, KEG, TLC]

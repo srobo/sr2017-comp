@@ -11,57 +11,110 @@ teams:
 # Floor 0 starts here
 - name: floor-0-group-0
   display_name: Group 0, Ground Floor
-  teams: []
+  teams:
+  - SWI
+  - CRS
+  - YJB
+  - TWG
 #
 - name: floor-0-group-1
   display_name: Group 1, Ground Floor
-  teams: []
+  teams:
+  - SUF
+  - CAR
+  - CRB
+  - BPV
 #
 - name: floor-0-group-2
   display_name: Group 2, Ground Floor
-  teams: []
+  teams:
+  - BAL
+  - LFG
+  - MFG
+  - DCG
 #
 - name: floor-0-group-3
   display_name: Group 3, Ground Floor
-  teams: []
+  teams:
+  - SPH
+  - LSS
+  - FAL
+  - WHS
 #
 - name: floor-0-group-4
   display_name: Group 4, Ground Floor
-  teams: []
+  teams:
+  - CGS
+  - FRC
+  - HAM
+  - GRD
 #
 - name: floor-0-group-5
   display_name: Group 5, Ground Floor
-  teams: []
+  teams:
+  - CLY
+  - BLE
 #
 # Floor 2 starts here
 - name: floor-2-group-0
   display_name: Group 0, Second Floor
-  teams: []
+  teams:
+  - CCR
+  - QMC
+  - JLS
+  - KEG
 #
 - name: floor-2-group-1
   display_name: Group 1, Second Floor
-  teams: []
+  teams:
+  - MCS
+  - TCS
+  - BRN
+  - GDC
 #
 - name: floor-2-group-2
   display_name: Group 2, Second Floor
-  teams: []
+  teams:
+  - BRK
+  - KDE
+  - MAI
+  - KEV
 #
 - name: floor-2-group-3
   display_name: Group 3, Second Floor
-  teams: []
+  teams:
+  - PSC
+  - KES
+  - RGS
+  - CAT
 #
 - name: floor-2-group-4
   display_name: Group 4, Second Floor
-  teams: []
+  teams:
+  - DUL
+  - HSO
+  - SEN
+  - SCS
 #
 - name: floor-2-group-5
   display_name: Group 5, Second Floor
-  teams: []
+  teams:
+  - TTN
+  - CHB
+  - BDF
+  - ABD
 #
 - name: floor-2-group-6
   display_name: Group 6, Second Floor
-  teams: []
+  teams:
+  - CLF
+  - HRS
+  - TLC
+  - HAY
 #
 - name: floor-2-group-7
   display_name: Group 7, Second Floor
-  teams: []
+  teams:
+  - WGS
+  - CHW
+  - QEH

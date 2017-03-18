@@ -1,1 +1,160 @@
-teams: {}
+teams:
+  ABD:
+    name: Abingdon School
+    rookie: false
+  BAL:
+    name: Bales College
+    rookie: true
+  BDF:
+    name: Bedford School
+    rookie: false
+  BLE:
+    name: Blenducate Ltd
+    rookie: true
+  BPV:
+    name: Barton Peveril College
+    rookie: false
+  BRK:
+    name: Brockenhurst College
+    rookie: false
+  BRN:
+    name: St Brendan's Sixth Form College
+    rookie: false
+  CAR:
+    name: Carshalton College
+    rookie: true
+  CAT:
+    name: CATS College Cambridge
+    rookie: false
+  CCR:
+    name: Cirencester Sixth Form College
+    rookie: false
+  CGS:
+    name: Colston's Girls School
+    rookie: false
+  CHB:
+    name: King Edward VI Camp Hill School for Boys
+    rookie: false
+  CHW:
+    name: The Cherwell School
+    rookie: false
+  CLF:
+    name: Clifton High School
+    rookie: false
+  CLY:
+    name: Collyers Sixth Form College
+    rookie: false
+  CRB:
+    name: Cranbrook School
+    rookie: false
+  CRS:
+    name: Clitheroe Royal Grammar School
+    rookie: true
+  DCG:
+    name: Dr Challoner's Grammar School
+    rookie: true
+  DUL:
+    name: DC Robotics
+    rookie: false
+  FAL:
+    name: Fallibroome Academy
+    rookie: true
+  FRC:
+    name: Frome College
+    rookie: true
+  GDC:
+    name: Godalming College
+    rookie: true
+  GRD:
+    name: Gordano School
+    rookie: false
+  HAM:
+    name: Hampton School
+    rookie: false
+  HAY:
+    name: Haydon School
+    rookie: false
+  HRS:
+    name: Systemetric (Hills Road Sixth Form College)
+    rookie: false
+  HSO:
+    name: Headington School
+    rookie: false
+  JLS:
+    name: The John Lyon School
+    rookie: true
+  KDE:
+    name: Kennet District Explorer Scouts
+    rookie: false
+  KEG:
+    name: KEGS (King Edward VI Grammar School, Chelmsford)
+    rookie: false
+  KES:
+    name: King Edward VI School, Southampton
+    rookie: false
+  KEV:
+    name: King Edward VI School
+    rookie: false
+  LFG:
+    name: Lion-Feuchtwanger-Gymnasium
+    rookie: false
+  LSS:
+    name: LSS
+    rookie: false
+  MAI:
+    name: Team MAI
+    rookie: false
+  MCS:
+    name: MCS
+    rookie: false
+  MFG:
+    name: The Mirfield Free Grammar and Sixth Form
+    rookie: false
+  PSC:
+    name: Peter Symonds College
+    rookie: false
+  QEH:
+    name: Berkeley Robotics
+    rookie: false
+  QMC:
+    name: Queen Mary's College
+    rookie: false
+  RGS:
+    name: Royal Grammar School Guildford
+    rookie: false
+  SCS:
+    name: Silcoates School
+    rookie: false
+  SEN:
+    name: Southend High School for Boys
+    rookie: false
+  SPH:
+    name: St Philomena's High School
+    rookie: true
+  SUF:
+    name: Suffolk One
+    rookie: true
+  SWI:
+    name: South Wilts Grammar School
+    rookie: false
+  TCS:
+    name: The Cooper School
+    rookie: true
+  TLC:
+    name: The Ladies' College, Guernsey
+    rookie: false
+  TTN:
+    name: Richard Taunton 6th Form College
+    rookie: false
+  TWG:
+    name: Tunbridge Wells Grammar School for Boys
+    rookie: false
+  WGS:
+    name: Wisbech Grammar School
+    rookie: false
+  WHS:
+    name: Westcliff High School for Girls
+    rookie: false
+  YJB:
+    name: Ysgol John Bright
+    rookie: true
