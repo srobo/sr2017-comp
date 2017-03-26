@@ -14,6 +14,9 @@ teams:
   BPV:
     name: Barton Peveril College
     rookie: false
+  BPV2:
+    name: Barton Peveril College
+    rookie: false
   BRK:
     name: Brockenhurst College
     rookie: false
@@ -30,7 +33,7 @@ teams:
     name: Cirencester Sixth Form College
     rookie: false
   CGS:
-    name: Colston's Girls School
+    name: Colston's Girls' School
     rookie: false
   CHB:
     name: King Edward VI Camp Hill School for Boys
@@ -42,7 +45,7 @@ teams:
     name: Clifton High School
     rookie: false
   CLY:
-    name: Collyers Sixth Form College
+    name: Collyer's
     rookie: false
   CRB:
     name: Cranbrook School
@@ -66,6 +69,9 @@ teams:
     name: Godalming College
     rookie: true
   GRD:
+    name: Gordano School
+    rookie: false
+  GRD2:
     name: Gordano School
     rookie: false
   HAM:
@@ -92,9 +98,6 @@ teams:
   KES:
     name: King Edward VI School, Southampton
     rookie: false
-  KEV:
-    name: King Edward VI School
-    rookie: false
   LFG:
     name: Lion-Feuchtwanger-Gymnasium
     rookie: false
@@ -117,7 +120,7 @@ teams:
     name: Berkeley Robotics
     rookie: false
   QMC:
-    name: Queen Mary's College
+    name: Team QMC
     rookie: false
   RGS:
     name: Royal Grammar School Guildford
@@ -139,7 +142,7 @@ teams:
     rookie: false
   TCS:
     name: The Cooper School
-    rookie: true
+    rookie: false
   TLC:
     name: The Ladies' College, Guernsey
     rookie: false
@@ -155,6 +158,3 @@ teams:
   WHS:
     name: Westcliff High School for Girls
     rookie: false
-  YJB:
-    name: Ysgol John Bright
-    rookie: true
