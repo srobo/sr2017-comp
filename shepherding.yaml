@@ -27,10 +27,12 @@ shepherds:
       - floor-2-group-0
       - floor-2-group-1
       - floor-2-group-2
+      - floor-2-group-3
 
   - name: Blue
     colour: '#A9A9F5'
     regions:
-      - floor-2-group-3
       - floor-2-group-4
       - floor-2-group-5
+      - floor-2-group-6
+      - floor-2-group-7
