@@ -134,9 +134,6 @@ teams:
   SPH:
     name: St Philomena's High School
     rookie: true
-  SUF:
-    name: Suffolk One
-    rookie: true
   SWI:
     name: South Wilts Grammar School
     rookie: false

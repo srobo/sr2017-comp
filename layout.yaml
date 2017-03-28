@@ -15,106 +15,105 @@ teams:
   - SWI
   - CRS
   - TWG
-  - SUF
+  - CAR
 #
 - name: floor-0-group-1
   display_name: Group 1, Ground Floor
   teams:
-  - CAR
   - CRB
   - BPV
   - BAL
+  - LFG
 #
 - name: floor-0-group-2
   display_name: Group 2, Ground Floor
   teams:
-  - LFG
   - MFG
   - DCG
   - SPH
+  - LSS
 #
 - name: floor-0-group-3
   display_name: Group 3, Ground Floor
   teams:
-  - LSS
   - FAL
   - WHS
   - CGS
+  - FRC
 #
 - name: floor-0-group-4
   display_name: Group 4, Ground Floor
   teams:
-  - FRC
   - HAM
   - GRD
   - CLY
+  - BLE
 #
 - name: floor-0-group-5
   display_name: Group 5, Ground Floor
   teams:
-  - BLE
-  - CCR
+  - CHW
+  - QMC
 #
 # Floor 2 starts here
 - name: floor-2-group-0
   display_name: Group 0, Second Floor
   teams:
-  - QMC
   - JLS
   - KEG
   - MCS
+  - TCS
 #
 - name: floor-2-group-1
   display_name: Group 1, Second Floor
   teams:
-  - TCS
   - BRN
   - GDC
   - BRK
+  - KDE
 #
 - name: floor-2-group-2
   display_name: Group 2, Second Floor
   teams:
-  - KDE
   - MAI
   - PSC
   - KES
+  - GRD2
 #
 - name: floor-2-group-3
   display_name: Group 3, Second Floor
   teams:
-  - GRD2
   - BPV2
   - RGS
   - CAT
+  - DUL
 #
 - name: floor-2-group-4
   display_name: Group 4, Second Floor
   teams:
-  - DUL
   - HSO
   - SEN
   - SCS
+  - TTN
 #
 - name: floor-2-group-5
   display_name: Group 5, Second Floor
   teams:
-  - TTN
   - CHB
   - BDF
   - ABD
+  - CLF
 #
 - name: floor-2-group-6
   display_name: Group 6, Second Floor
   teams:
-  - CLF
   - HRS
   - TLC
   - HAY
+  - WGS
 #
 - name: floor-2-group-7
   display_name: Group 7, Second Floor
   teams:
-  - WGS
-  - CHW
   - QEH
+  - CCR
