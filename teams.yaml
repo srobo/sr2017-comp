@@ -1,7 +1,4 @@
 teams:
-  ABD:
-    name: Abingdon School
-    rookie: false
   BAL:
     name: Bales College
     rookie: true
@@ -142,9 +139,6 @@ teams:
     rookie: false
   TLC:
     name: The Ladies' College, Guernsey
-    rookie: false
-  TTN:
-    name: Richard Taunton 6th Form College
     rookie: false
   TWG:
     name: Tunbridge Wells Grammar School for Boys

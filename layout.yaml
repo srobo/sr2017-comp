@@ -94,14 +94,12 @@ teams:
   - HSO
   - SEN
   - SCS
-  - TTN
 #
 - name: floor-2-group-5
   display_name: Group 5, Second Floor
   teams:
   - CHB
   - BDF
-  - ABD
   - CLF
 #
 - name: floor-2-group-6
