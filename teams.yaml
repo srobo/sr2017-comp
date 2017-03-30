@@ -125,9 +125,6 @@ teams:
   SEN:
     name: Southend High School for Boys
     rookie: false
-  SPH:
-    name: St Philomena's High School
-    rookie: true
   SWI:
     name: South Wilts Grammar School
     rookie: false
