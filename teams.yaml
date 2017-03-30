@@ -56,9 +56,6 @@ teams:
   DUL:
     name: DC Robotics
     rookie: false
-  FAL:
-    name: Fallibroome Academy
-    rookie: true
   FRC:
     name: Frome College
     rookie: true
@@ -139,9 +136,6 @@ teams:
     rookie: false
   TLC:
     name: The Ladies' College, Guernsey
-    rookie: false
-  TWG:
-    name: Tunbridge Wells Grammar School for Boys
     rookie: false
   WGS:
     name: Wisbech Grammar School

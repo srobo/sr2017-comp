@@ -14,7 +14,6 @@ teams:
   teams:
   - SWI
   - CRS
-  - TWG
   - CAR
 #
 - name: floor-0-group-1
@@ -36,7 +35,6 @@ teams:
 - name: floor-0-group-3
   display_name: Group 3, Ground Floor
   teams:
-  - FAL
   - WHS
   - CGS
   - FRC
