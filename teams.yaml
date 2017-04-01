@@ -8,6 +8,7 @@ teams:
   BLE:
     name: Blenducate Ltd
     rookie: true
+    dropped_out_after: 59
   BPV:
     name: Barton Peveril College
     rookie: false
@@ -47,6 +48,7 @@ teams:
   CRS:
     name: Clitheroe Royal Grammar School
     rookie: true
+    dropped_out_after: 59
   DCG:
     name: Dr Challoner's Grammar School
     rookie: true
@@ -56,6 +58,7 @@ teams:
   FRC:
     name: Frome College
     rookie: true
+    dropped_out_after: 59
   GDC:
     name: Godalming College
     rookie: true
