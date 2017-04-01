@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AAAABBBBC
+match_number: 18
+teams:
+  BAL:
+    disqualified: false
+    present: false
+    zone: 0
+  FRC:
+    disqualified: false
+    present: false
+    zone: 1
+  PSC:
+    disqualified: false
+    present: true
+    zone: 2
+  SWI:
+    disqualified: false
+    present: true
+    zone: 3
