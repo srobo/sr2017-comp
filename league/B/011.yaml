@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ABB
+  1:
+    tokens: ABC
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AAB
+match_number: 11
+teams:
+  BDF:
+    disqualified: false
+    present: false
+    zone: 3
+  CAT:
+    disqualified: false
+    present: true
+    zone: 0
+  HRS:
+    disqualified: false
+    present: true
+    zone: 1
+  KES:
+    disqualified: true
+    present: true
+    zone: 2
