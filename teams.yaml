@@ -27,6 +27,7 @@ teams:
   CCR:
     name: Cirencester Sixth Form College
     rookie: false
+    dropped_out_after: 59
   CGS:
     name: Colston's Girls' School
     rookie: false
