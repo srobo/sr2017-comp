@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ABB
+  1:
+    tokens: BC
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AAAB
+match_number: 29
+teams:
+  BPV2:
+    disqualified: false
+    present: true
+    zone: 2
+  BRK:
+    disqualified: false
+    present: true
+    zone: 0
+  HRS:
+    disqualified: false
+    present: true
+    zone: 1
