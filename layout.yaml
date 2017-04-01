@@ -14,7 +14,6 @@ teams:
   teams:
   - SWI
   - CRS
-  - CAR
 #
 - name: floor-0-group-1
   display_name: Group 1, Ground Floor

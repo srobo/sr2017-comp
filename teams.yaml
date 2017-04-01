@@ -20,9 +20,6 @@ teams:
   BRN:
     name: St Brendan's Sixth Form College
     rookie: false
-  CAR:
-    name: Carshalton College
-    rookie: true
   CAT:
     name: CATS College Cambridge
     rookie: false
