@@ -14,7 +14,7 @@ match_number: 7
 teams:
   BAL:
     disqualified: false
-    present: true
+    present: false
     zone: 3
   CLY:
     disqualified: false
