@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: A
+  1:
+    tokens: ''
+  2:
+    tokens: A
+  3:
+    tokens: ''
+  other:
+    tokens: AABBBBC
+match_number: 4
+teams:
+  CHB:
+    disqualified: false
+    present: true
+    zone: 3
+  HSO:
+    disqualified: false
+    present: true
+    zone: 0
+  SCS:
+    disqualified: false
+    present: true
+    zone: 2
+  SEN:
+    disqualified: false
+    present: true
+    zone: 1
