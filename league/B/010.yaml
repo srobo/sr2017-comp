@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: B
+  3:
+    tokens: ''
+  other:
+    tokens: AAAABBBC
+match_number: 10
+teams:
+  BPV2:
+    disqualified: false
+    present: false
+    zone: 1
+  CLF:
+    disqualified: false
+    present: true
+    zone: 0
+  HAM:
+    disqualified: false
+    present: true
+    zone: 3
+  HAY:
+    disqualified: false
+    present: true
+    zone: 2
