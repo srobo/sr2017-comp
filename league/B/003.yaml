@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AAAABBBBC
+match_number: 3
+teams:
+  GRD2:
+    disqualified: false
+    present: true
+    zone: 3
+  KES:
+    disqualified: false
+    present: false
+    zone: 2
+  MAI:
+    disqualified: false
+    present: true
+    zone: 0
+  PSC:
+    disqualified: false
+    present: true
+    zone: 1
