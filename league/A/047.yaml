@@ -1,0 +1,26 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ABC
+  3:
+    tokens: ''
+  other:
+    tokens: AAABBB
+match_number: 47
+teams:
+  CLY:
+    disqualified: false
+    present: true
+    zone: 2
+  LFG:
+    disqualified: false
+    present: true
+    zone: 0
+  PSC:
+    disqualified: false
+    present: true
+    zone: 1
