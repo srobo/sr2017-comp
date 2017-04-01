@@ -35,7 +35,7 @@ teams:
   teams:
   - WHS
   - CGS
-  - FRC
+  - TCS
 #
 - name: floor-0-group-4
   display_name: Group 4, Ground Floor
@@ -58,7 +58,7 @@ teams:
   - JLS
   - KEG
   - MCS
-  - TCS
+  - FRC
 #
 - name: floor-2-group-1
   display_name: Group 1, Second Floor
