@@ -48,7 +48,7 @@ teams:
 - name: floor-0-group-5
   display_name: Group 5, Ground Floor
   teams:
-  - CCR
+  - CHW
   - QMC
 #
 # Floor 2 starts here
@@ -110,4 +110,4 @@ teams:
   display_name: Group 7, Second Floor
   teams:
   - QEH
-  - CHW
+  - CCR
