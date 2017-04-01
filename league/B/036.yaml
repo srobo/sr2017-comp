@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: AA
+  2:
+    tokens: ABB
+  3:
+    tokens: ''
+  other:
+    tokens: ABBC
+match_number: 36
+teams:
+  CGS:
+    disqualified: false
+    present: true
+    zone: 0
+  CLF:
+    disqualified: false
+    present: true
+    zone: 2
+  HSO:
+    disqualified: false
+    present: true
+    zone: 3
+  SWI:
+    disqualified: false
+    present: true
+    zone: 1
