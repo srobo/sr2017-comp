@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: AB
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AAABBBC
+match_number: 45
+teams:
+  BDF:
+    disqualified: false
+    present: true
+    zone: 2
+  BRK:
+    disqualified: false
+    present: true
+    zone: 0
+  QEH:
+    disqualified: false
+    present: true
+    zone: 3
+  WHS:
+    disqualified: false
+    present: true
+    zone: 1
