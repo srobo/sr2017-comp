@@ -22,5 +22,5 @@ teams:
     zone: 2
   TLC:
     disqualified: false
-    present: false
+    present: true
     zone: 1
