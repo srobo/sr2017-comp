@@ -103,7 +103,7 @@ teams:
     name: Team MAI
     rookie: false
   MCS:
-    name: Wheels?!
+    name: !!python/str "Wheels\u203D"
     rookie: false
   MFG:
     name: The Mirfield Free Grammar and Sixth Form
