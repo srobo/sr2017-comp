@@ -67,7 +67,7 @@ def compute_awards(scores, final_match_info, teams):
             )
     except KeyError:
         # We haven't scored the last match yet
-        return ()
+        return "Finals not yet scored"
 
     semis_positions = combined_semis_ranked_poitions(scores, final_match_info)
     ranked_semis = KnockoutScores.calculate_ranking(
