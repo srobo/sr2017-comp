@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: B
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AAAABBBC
+match_number: 101
+teams:
+  GDC:
+    disqualified: false
+    present: false
+    zone: 0
+  HAY:
+    disqualified: false
+    present: true
+    zone: 3
+  LFG:
+    disqualified: false
+    present: true
+    zone: 2
+  WHS:
+    disqualified: false
+    present: false
+    zone: 1
