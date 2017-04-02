@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: AB
+  3:
+    tokens: ''
+  other:
+    tokens: AAABBBC
+match_number: 94
+teams:
+  BPV:
+    disqualified: false
+    present: true
+    zone: 1
+  CHB:
+    disqualified: false
+    present: true
+    zone: 3
+  SWI:
+    disqualified: false
+    present: true
+    zone: 0
+  TLC:
+    disqualified: false
+    present: true
+    zone: 2
