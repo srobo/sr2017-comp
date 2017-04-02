@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: AABC
+  other:
+    tokens: AABBB
+match_number: 85
+teams:
+  BPV2:
+    disqualified: false
+    present: false
+    zone: 0
+  CLY:
+    disqualified: false
+    present: true
+    zone: 3
+  HSO:
+    disqualified: false
+    present: true
+    zone: 1
+  JLS:
+    disqualified: false
+    present: true
+    zone: 2
