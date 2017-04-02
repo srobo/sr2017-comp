@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: A
+  1:
+    tokens: AB
+  2:
+    tokens: BC
+  3:
+    tokens: B
+  other:
+    tokens: AAB
+match_number: 119
+teams:
+  CLY:
+    disqualified: false
+    present: true
+    zone: 2
+  GRD:
+    disqualified: false
+    present: true
+    zone: 1
+  HAY:
+    disqualified: false
+    present: true
+    zone: 3
+  QMC:
+    disqualified: false
+    present: true
+    zone: 0
