@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: AB
+  3:
+    tokens: ''
+  other:
+    tokens: AAABBBC
+match_number: 106
+teams:
+  GDC:
+    disqualified: false
+    present: false
+    zone: 1
+  HAY:
+    disqualified: false
+    present: true
+    zone: 2
+  SWI:
+    disqualified: false
+    present: true
+    zone: 3
