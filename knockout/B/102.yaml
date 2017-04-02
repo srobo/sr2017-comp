@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: A
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: BA
+  other:
+    tokens: AABBBC
+match_number: 102
+teams:
+  KES:
+    disqualified: false
+    present: true
+    zone: 0
+  MAI:
+    disqualified: false
+    present: true
+    zone: 3
+  QEH:
+    disqualified: false
+    present: true
+    zone: 1
