@@ -21,7 +21,7 @@ def combined_semis_ranked_poitions(scores, final_match_info):
     semi_1_key = (final_match_info.arena, final_match_info.num - 1)
     semi_2_key = (final_match_info.arena, final_match_info.num - 2)
 
-    if final_match_info.type == MatchType.tiebreaker
+    if final_match_info.type == MatchType.tiebreaker:
         # The actual final was at n-1, so we need to use n-2 and n-3
         semi_1_key = (final_match_info.arena, final_match_info.num - 2)
         semi_2_key = (final_match_info.arena, final_match_info.num - 3)
