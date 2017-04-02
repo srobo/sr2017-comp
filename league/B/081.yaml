@@ -12,10 +12,6 @@ arena_zones:
     tokens: ABBB
 match_number: 81
 teams:
-  BAL:
-    disqualified: false
-    present: false
-    zone: 2
   BDF:
     disqualified: false
     present: true
