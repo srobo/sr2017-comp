@@ -3,13 +3,13 @@ arena_zones:
   0:
     tokens: ''
   1:
-    tokens: ''
+    tokens: AAB
   2:
     tokens: A
   3:
     tokens: ''
   other:
-    tokens: AAABBBBC
+    tokens: ABBBC
 match_number: 73
 teams:
   BRK:
