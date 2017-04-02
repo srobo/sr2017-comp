@@ -12,10 +12,6 @@ arena_zones:
     tokens: AAABBBB
 match_number: 70
 teams:
-  BAL:
-    disqualified: false
-    present: true
-    zone: 3
   HAM:
     disqualified: false
     present: true

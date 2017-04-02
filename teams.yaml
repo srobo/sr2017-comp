@@ -2,6 +2,7 @@ teams:
   BAL:
     name: Bales College
     rookie: true
+    dropped_out_after: 59
   BDF:
     name: Bedford School
     rookie: false
