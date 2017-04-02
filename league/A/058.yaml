@@ -26,5 +26,5 @@ teams:
     zone: 0
   QEH:
     disqualified: false
-    present: false
+    present: true
     zone: 1
