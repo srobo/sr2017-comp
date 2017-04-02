@@ -1,0 +1,26 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ABC
+  1:
+    tokens: A
+  2:
+    tokens: ''
+  3:
+    tokens: AB
+  other:
+    tokens: ABB
+match_number: 100
+teams:
+  CRB:
+    disqualified: false
+    present: true
+    zone: 3
+  HRS:
+    disqualified: false
+    present: true
+    zone: 0
+  KDE:
+    disqualified: false
+    present: true
+    zone: 1
