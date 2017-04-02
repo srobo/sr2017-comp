@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: CA
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ABB
+  other:
+    tokens: BBAA
+match_number: 61
+teams:
+  BRK:
+    disqualified: false
+    present: true
+    zone: 3
+  DUL:
+    disqualified: false
+    present: true
+    zone: 0
+  SCS:
+    disqualified: false
+    present: true
+    zone: 1
+  TCS:
+    disqualified: false
+    present: true
+    zone: 2
