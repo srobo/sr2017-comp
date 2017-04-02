@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AAAABBBBC
+match_number: 62
+teams:
+  BDF:
+    disqualified: false
+    present: true
+    zone: 0
+  BPV2:
+    disqualified: false
+    present: true
+    zone: 3
+  CHW:
+    disqualified: false
+    present: true
+    zone: 1
