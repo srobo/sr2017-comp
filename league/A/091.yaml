@@ -1,0 +1,26 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: AB
+  2:
+    tokens: C
+  3:
+    tokens: ''
+  other:
+    tokens: AAABBB
+match_number: 91
+teams:
+  CHW:
+    disqualified: false
+    present: true
+    zone: 3
+  DUL:
+    disqualified: false
+    present: true
+    zone: 2
+  GRD:
+    disqualified: false
+    present: true
+    zone: 1
