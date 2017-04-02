@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: AA
+  1:
+    tokens: ''
+  2:
+    tokens: ' B'
+  3:
+    tokens: ''
+  other:
+    tokens: AABBBC
+match_number: 85
+teams:
+  CGS:
+    disqualified: false
+    present: true
+    zone: 2
+  MFG:
+    disqualified: false
+    present: true
+    zone: 1
+  PSC:
+    disqualified: false
+    present: true
+    zone: 3
+  QMC:
+    disqualified: false
+    present: true
+    zone: 0
