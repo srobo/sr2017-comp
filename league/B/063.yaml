@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: BC
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AAAABBB
+match_number: 63
+teams:
+  JLS:
+    disqualified: false
+    present: true
+    zone: 3
+  KDE:
+    disqualified: false
+    present: true
+    zone: 2
+  TLC:
+    disqualified: false
+    present: false
+    zone: 1
