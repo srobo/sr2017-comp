@@ -1,0 +1,26 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: BCA
+  2:
+    tokens: ''
+  3:
+    tokens: AB
+  other:
+    tokens: AABB
+match_number: 69
+teams:
+  CLY:
+    disqualified: false
+    present: true
+    zone: 1
+  KEG:
+    disqualified: false
+    present: true
+    zone: 2
+  TLC:
+    disqualified: false
+    present: true
+    zone: 3
