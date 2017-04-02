@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: A
+  1:
+    tokens: ''
+  2:
+    tokens: ''
+  3:
+    tokens: CABB
+  other:
+    tokens: AABB
+match_number: 79
+teams:
+  BPV2:
+    disqualified: false
+    present: false
+    zone: 2
+  CLY:
+    disqualified: false
+    present: true
+    zone: 3
+  MFG:
+    disqualified: false
+    present: true
+    zone: 1
+  QMC:
+    disqualified: false
+    present: true
+    zone: 0
