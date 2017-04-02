@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: AB
+  2:
+    tokens: A
+  3:
+    tokens: ''
+  other:
+    tokens: AABBBC
+match_number: 88
+teams:
+  CRB:
+    disqualified: false
+    present: true
+    zone: 2
+  KDE:
+    disqualified: false
+    present: true
+    zone: 1
+  QEH:
+    disqualified: false
+    present: true
+    zone: 0
+  TCS:
+    disqualified: false
+    present: true
+    zone: 3
