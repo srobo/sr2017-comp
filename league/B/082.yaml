@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: ''
+  2:
+    tokens: BAC
+  3:
+    tokens: A
+  other:
+    tokens: AABBB
+match_number: 82
+teams:
+  DCG:
+    disqualified: false
+    present: true
+    zone: 0
+  GRD2:
+    disqualified: false
+    present: true
+    zone: 3
+  HRS:
+    disqualified: false
+    present: true
+    zone: 2
+  LFG:
+    disqualified: false
+    present: true
+    zone: 1
