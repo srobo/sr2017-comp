@@ -1,0 +1,30 @@
+arena_id: A
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: AC
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AAABBBB
+match_number: 79
+teams:
+  GDC:
+    disqualified: false
+    present: false
+    zone: 0
+  KES:
+    disqualified: false
+    present: false
+    zone: 3
+  SCS:
+    disqualified: false
+    present: true
+    zone: 2
+  TLC:
+    disqualified: false
+    present: true
+    zone: 1
