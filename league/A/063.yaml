@@ -17,7 +17,7 @@ teams:
     present: true
     zone: 2
   LFG:
-    disqualified: false
+    disqualified: true
     present: true
     zone: 1
   RGS:
