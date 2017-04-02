@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: ''
+  1:
+    tokens: AA
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: BBBBAAC
+match_number: 111
+teams:
+  HAM:
+    disqualified: false
+    present: true
+    zone: 3
+  PSC:
+    disqualified: false
+    present: true
+    zone: 0
+  TLC:
+    disqualified: false
+    present: true
+    zone: 1
+  WHS:
+    disqualified: false
+    present: true
+    zone: 2
