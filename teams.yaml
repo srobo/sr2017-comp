@@ -54,7 +54,7 @@ teams:
     name: Dr Challoner's Grammar School
     rookie: true
   DUL:
-    name: DC Robotics
+    name: Vape Robotics
     rookie: false
   FRC:
     name: Frome College
@@ -79,7 +79,7 @@ teams:
     name: Systemetric (Hills Road Sixth Form College)
     rookie: false
   HSO:
-    name: Headington School
+    name: Sum-Zero HSO
     rookie: false
   JLS:
     name: The John Lyon School
