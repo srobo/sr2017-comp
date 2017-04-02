@@ -1,0 +1,30 @@
+arena_id: B
+arena_zones:
+  0:
+    tokens: A
+  1:
+    tokens: AB
+  2:
+    tokens: ''
+  3:
+    tokens: ''
+  other:
+    tokens: AABBBC
+match_number: 87
+teams:
+  HRS:
+    disqualified: false
+    present: true
+    zone: 1
+  LSS:
+    disqualified: false
+    present: true
+    zone: 0
+  SEN:
+    disqualified: false
+    present: true
+    zone: 3
+  SWI:
+    disqualified: false
+    present: true
+    zone: 2
